@@ -1,1 +1,195 @@
-eNoASx+04ChZi2vwZ1YQTJgUs9Yi+99MKfpmOXii66IAtJpdF3lhMw66aq3xRljbdB2dIoSMCIODI8KHrG10ZYaWYX0XckQO7nAeYQlwrIA9kCywbfhmRxyGJ9K3BHxRMDan9hEWJdzcYGS2pfzi88eJ88954H/lKLVOvZsGplRKobBQbc7y9bR7g7RKXVEKFpC8y5spjq3jovuSJ/ylcUmbK9PBZBT1LpvwwKCHEUwVTiIvbphsN5phbq85qyoBWuWXAc9gOLLJOiCudJ1aw3R8Kjs7YKJ/SVjpeCkV/0vFe47mrXMhJhCSsjKE+Bw0jhJlUsr7dZ0AgpIiLu0X2Su+3A/kOmOMlNRBa8pZOkAepsUOb54yC0sNW5G722FOFwH0JFnRVtYLExoSsZamEZJNFJpdpDJ58LK/guNumazwvINvwErM65Oi6nihNLqg031Z1GXsKvAx3L+R6riz2QwljSIvkIZuZkgkpiuUTF+vVldIgicpR27PpwQCJYkaQOfUEEkTpU5XCkINv0U/7waQjX8pTrL2p2A0HW+83lK83kbKVR6nf4hPrrv8mlmPQsAgldIZfY48+HONpIBeQlCinviLDBeH74+w8Z/ABKzV4AvrcUKEFABlYnslQRqH/5HNsQPwZwCPn1ZWrDEwAZFandPKuA6vXhzgiuh1VNh4AqgwlXrJ3sOu8QC5KaB2mXhekk2FFTwTDv6V6M3+8UJJ7wHPqK2U+dh/NfIw0sLqjOjJUFL13Hie4aj7u/MBNExtKz0yz1gh3T6TuihwctX3MopkAbMAVxyEGSkdHAxwNWMnWkULuS52ydJGPSJXDO1tCmExsEYGFvH5eArOCKWSaXPK/B5hbSLOZwLf9nKszGKTMk3+aJgis1Vl8VftrrXsPShxU0IcZ78u/R4rzKeLGK+lIp3f5ctZXYgo8gYRnanT+6rGXhvsnJbliMS1yVqz9QKTdVmEddzgNBh6+lTp6hXVU9AP99VjDrpaW1jcV1ZIMxVZyp8EU6kyXt+dFZ7oqgu1NChjhr/P/nGdbnvx6hqG9/+7Wl9FKlZwtYMEtLfYSdMuLOGt4iQ817HD11Qxz0I7tVceyFeifwYV1CbK9rhhTf8aOKi2Ez+cviLAXYy99k/1V442hv7Lm62Z219OL4JjOzrOYITLTP6Bo7jgA3bXzxdc9jGYQhSJpU8bxrLWeYg9q/vNIGnaDwGZAF6TH8688SNt54JBMUsU+HVKatqTqJNzd2r/hRpmhI+8xJO5G5y2aXIQQpjxRY9JRJQhvlnG75PnoEFq0ZrxlQ0YixirkWQIEJW2b7rDvQ2qbdRW+rcNvA7hfMEZc0fXFktygDqplWhrJmotmdEMK0HLUv9gVFkR4W3w1jTyV9WfwBhWKfkkyd+m1/09wqUpJu+DNyBluOnOmVSf1fs7RvOo+mSBc+wkm4uLKcHSbtTQxOsO5VAvf/T8eMq9yrnE+MAQ9mEUfTwWA87Ispwzymlzus+5pz1zRGa6hy56D6IDAmmioBnwKTiaho3iYUp/xCmiynHbQ1CONnQ3HiQ9t/RKW/nOYOQLRwMrRpAXoBitcbx4XFff622QEZr4Z2YWE0wI++u42ioeTOGQVcX2LZlNDaOl6wvQQWPACiaz8A7ltzOKhsEVP9LLQwufjlPXObIvASzGKmOWEvfMVMFeyBOvkMuVuSZmZH5igkP/YCqgiLWN6xO1aMVQq5psYP9jE15ukh2I5nVdXe6xzVRUADwsgiPsBqLZ8Cu6wh2mZvajF3GOy2FD2wKAf817hk63FDJ7Fh/doCevuY90rMHW6toTWUDwexz9RBMP42ZnLilMsV72Fot/RNdtNEIenKf8s4HS/xVJPK78TOlnoj51vKyQ4miTevLbzNfStrKGjPCxtBeezv2GweuhvIMfb/njFip2F4bmudyqL8PAHmIgzA+0pUWREtCzxIk5Byb51XHihLSgplYooJszAuHexVbfjVqLdRVNZDevlAmUfKAGCXd6ftypGK3koC+0Fmz/+ScuUfUgPf3D38z8ngBznVnpFldS+m8mofR+o21gGEmiHKy8w6InrX4CAT7gEvAjIQb2XztxPa7ulvQfPqBobCa7JhwPnZ0jTglBF3ULOlkpsvQNJN18rw7jRd7+gp2xP8j2eG51SjgC5jJMdVX6gv/f39QdaVZHM3dK3dnoNfJXAL+fbCa8aN7MJh1nyd0NegUZG8MC5bztPARuW7TeoIuS74yrp0An/S1cSra1msL8opTzgVKevlP3FiNrafOAhB8vnMew4EMp6PZMtv2reHe2cgvfawpEyHl0kjFTJk7DAquqlZvRI1ClU4QdYWWAoK6FNA2Inckf4hnOo/II9zLfLIop6DIjqkyTBea0s3fID2Wwxu8t85woECSyTG2HLvqudvXK7DdjP+SqaDXiCGGYmZpch3i1VRjWS2OhB/FgnBm3Cw6ypggVSLo/CCPh95yqvICSJ3vE06sPkaKOmtRlz4miFK1RXcmmg53WFTaBWDwLu3Idoe8FuxekNvNAQ/oGk5v8TnqwKJ6G+D03nnrhc8JWVvK24ZW62sgIMe8bWwnaqwX6QMvqflZy9jovn28ebg/wNo7HvVcXK3FadFGwEHuS4nYOrYYqJnPXon1vq7CG8+ns+DC1Ch2khwqbdSwADIVAE71h2Ox+/yLWbkoW6XYjMfmJvUXHTiotdYgwE8z46l7z1W7VVs+/dpNLx4ise3YJgD51ykBLWF6qfNiPDAqK7LrPftfOU8L3XAnXVMpj8wDTYant7OOmeguMZE41CcBcH4+XljqHUNhN5t0NhVnU75/+nf09CxjrTRPUIPkyAoCYLhyC5NMLF6iOSF3yzz34iH2XqmPzkNDof3cRO7S/m7vNmyxhL3H7GG/V5YkNaEE6j/Jhu1HrSv8WD7XOfMLeZakBg+qQF4/fbSIF6FyQUMIAH/YIEonC6AcsvEluniqm4X9XkAxiOmgE/obTmLSpAJrjVFvkWD9fvim3HBonH8KmVM4+Br5SsK+KfiImvy665gxsIm5Gw8jZu5CbbwlJTPDZx7LZohVGF/gt8USEeqQWXZeteE5BmQA2Kz+EuoJA3y8IR8otQxFYTIw1XtMuINpDKKk/71lP+7CaM9vkyXosuxRYicUuS2c5+EKlOvBvt0uRX5Dg8HmnguOXNMDBWFqGr3ppAGed1+n/B7pLABIIV2HLkZNxogfPKAo3oHYfzHGWBAImNy53x+QKDyGq5vGspsKkFSLuHgjV695SqgS09BXf5LfLS37qES5Xy5ve/r6BJx3NVonI+CDiTpiZ6h6+ggXYsP+Mckjs6iOfz3+IedfOaM9EmAmUzlT6tW0MwH6VDQtAJ6vQjUEmAKq/u1UU5xkHII3EzRTGRHjzaBQh04U7K0QqOYl6q0xBZ0Q68NwL6/Ap3JoE4z3tP0Z2ZtWemnzNDXRU8mRPnxIpJuc7fW8Bd00o381CHtTK76K+YOY0UYR9SfTdPVTSEGCOA/uLwQM8KJ3G/sEsRLvNMhAbhzv965peq664McGOtHyunMnkn5V1CaFG9EwB1mAFQfe3hBg+1qTFN8eYGIyeHadtW9xUQv2WH/xnmqpJ6NNyxfBkpD6KMosthqPmKfHL4tBv76+zVTSKP7y+E1kn7wa8R334mITMkAssyXvBimaFOueoTQ+PHnA/1PP4Kjw45n2CEN6nrKhZk6gsBI9FDwr3T3bQExYsUtHPbqAxLyjxeYlw39ysRb1h5yQdsj3gTvNLFMHn8W8mVgpWbcS2wKPRX8jhOh4OPshrK9sfUyaMmI82cHLg90A314ivujTGwo7AUCwQ2S9J6BsyAn8jheoXI6r+EpiFF0oaBwptUKfUKN3j0qWuEiIFyogGEdYu1hghTD5Uq4qsPpINz2QjZLyNBz54yY7vB5GvRirYbDaHvIyyXnE+AIMAu8RBNCT6w9GU/91CV9/uyWzqHDlLLBHdiXZmSyJsl8Y4S88JOzOg9yan4y8wmtJNWz/nPhygRy9jI9kXoSOUYR96w1lY0ftN19ms695nm5x3DZ8ZGk5ji9y+wPaJlQpkm9P55xO8RGnXddXvII53b4TSKYWXOih1PPBhMtaDBrPfqVjij8RU6Taeaj/Q2PLxIL5S0dFlVDiCUCueG3I6ufG1eiEatsrROtUUaHpWjhILG1wByplHysvBs/W7ejgH8BNIyXej6d7d5Pyg9MWxUSiA0F4RqlJ3g7BFxgniDwL077UwrjgICpZHwCtgSLOWvwqkux4Gq/mZ4IlMVxtd0y834W3QCUBGXNtWI9bZVCGM6xcxwVmzMsCIRm5ASttva/b8Uok3xVnqZLwd472DA5AuJboz1yAgosZl52heScyAQRum6tiiPcyKu1lKvQtEIXxHKHTM+gWuDt8/YHYo+11Qw5fhxYZtEREQn/PCOtvfKSQ4qe4sgSHZoTbAtfINDTD6oS8HQx0pupUA9c3pFds0J3U+neRm4Qb/26aiIInfj/Ck72n7ihTrxtZN9uIABR8nX7olWbKoqoBSYxGLuu3RV9oe/FAliGFSubBfBGRmceOEqqD+FuTadivBBW+wUrOgGAbdl4XbGCsxRqPZ0zsaYIUgo72blYXWUt3hYeo5YPhCkQBZ9/6vafjOa1WBB/xbreScdta2TxKKGl1/QArWTly4zsrELJW0ZbBarfyMj7Kcm1hAPrvCvi4MEsfxFbFRGNIxI07n9iLpa7mriVkK68r4IzV4Hvnp4Wm1uGJt15jULue1izGyj7leJAiPK9hfNLaL+MjQhmtWcGLqgg4T6vaQ3ushZvuULUJKCnAzXsqXA1mj5FmBC8PsGgOZEfnXU1ha0xm4PacNxIOZKkgBjNB/8WTZOvoHtoyTnqu4+25NtgW2GtU+KZIntpXcj5RJePipxLppw5V26xQFVAxG2bIjn6+kot5W816YVeyK8AXgzPoYf6MMv/OzOZDGdyFeQtGMXI89eu0xNGWST0ta9pkxoWE1x8GHEPChlxTcWwv9LQjLLdiIenMrkpSIm7+CjgR4ypOYbQK+xnjEMETh8p0bjD/vMSNK/tHVVjDrFOHjhbb/ddjiKhhQA1/BEeVzjhhcIeSjQ89rqF8pW9VZAha9Yjj83iWysyOao5G/wijslEC0B7vl4+sRwDui/9g6tHAvpsFU5722hHB7Pqgq3W1Eeg0DCkKJ22NFcxgPoD2wlDCEfn3o4f354DFLA2z42FD66W4+La4esl18oVFIspp9YD3pTYVuXJYJhAlqoLor7y41sj4PnfisA8Lyx3JKbsLIO6lSQabZ5T/Q02XUthMMOZmq2fjYqMyZGvu657/Q1sk9FvBvwqcWQTfIY2SJFhscIhcWRZGKmqd7ZjUhHoUS5vtlmUUwXHnOQ9migcL8+UkvNTHhG1RsFDxNOyxm7PxbUjGoiLzruHF9b7riPOgGAIC/tYwviVrmfH20TAplaQXb03F58wQmcJ+mqQ0LJ374Wk2osrPvUzTkcy5m5tlL1Ga4pHxF3cKarSjyu+0qOwTT3jsetDl6APC30IzFYf2Cev072j8r2ms1BJiNb5oGfk40VpLrNHZtfzkFl21J/SDG7mtSc2fV8DdGSsysU0X0/riMPaZFQr2ynd+sj+hS8CbkPFRg812nThGpi7xMpkmFD7FCtyqXgPB3UI1qozO9V96aTXQv07EGv+sKBXXc5GN2qYJC0whTrNfCyxQq7sFwdZbm1/quqQ9SNfCuEO041TphyJ4RC/HKrKgDl9H9CnmUlX6knYrEXE4KceEadrkptfUfv0rqiT53hYqaZAPRqsQr7k0IdmxJvUz/c/VFJDRFj0WNmbVcula8zZ19OkTLf7s8FdLeGnC2T6NLSNizfdfuPFj3OWGcg1t7r3Es06cObBzB+Bbd0q8JUJ/twZ5ZqHIe+6KXEIcYtkiRanUKp6o1oahfYNR353Wds6wklAQWKwSQ88AWnbgurGy7QSLgUq90o+hq4/uTUGzIBRShSHq6kQB45gQtP0JcN5Zpr+/vN6ul9pYRCFoh/8zjjmSF2w4IXLUGhfQ55Pya0vaYYvlbXqXNOmf5zwm3lbD3gXP/RbA4fVF7j7FYevx9Rd474x328fin0Qj2/BU3rVLGBVuoSCKzvroV/+LFWh+mruAKflMz1cMF6P7Qpq/0JxcFsm/UsQY1KANn58nkK9DDZGNlGBUrEG/6KfEumWYaSqxcb+wZr9k8CmUFlkFXQaC5QWjHH5NPe9f0pfJ5KMu7ZUPCAMoGcD3r05pzXDp19nysrDLZDQFT21ayvE+H9Q4I00PHOur/a2v/e4qepeRrxE6c4ArAFO9DlrdmpeR7YYVUWN3H9Nw9ras92Su9BYDl4h/5YwZRgzVx70HGTsJswP8AB/pq0ZSU4Fg8oErhqVLM+wLRyggdxMPwY+TxU9bnHXLGo5PIfVF8OnG8doOBbEBdN+Kgw/dRjWJ6bDyaihWLijzs0NFik7cGQx1+nvvGNdmCxHMaSkRU5ngasFQnasYYKisy1E7qR85g6cdMoUCY/v72202B11mkhZojFXExKy14r0kb0QCMPj/n/LV9NQ/6yK5Sp/eaNqtsjoGgfLkpPfbw3zEqn7QguzH18VEjhOpagnuFclCnmBu4C8DO35vKjKQNM2LFm6GKgMIUcYW/KuRiVOQ/++ckWUaynFsfAXsagJoGTle9UPwDrIcGl2gUQIVmVlHLIlqCeHGCZcSfthJorMvrSpf9R6pWaNNhOsrnuAp6FdCrtuOarZ/AR8Z2Nfyvj3tl04ZJnJWRyPc95HQlL5wP1TKMfTZhHV8RLFvhnCnLHizFZ088lwc33jrpRJO2qOH5yuemmltzow213VbXELnrtukSmHV8xLW/SztLoSkxEharML8aIaLuhiRJ3/ESsBwfCzXxVmSnAnJSLPetaVJklc+GGolUOnUYKZZTGF8a62i+5rUWGY1MsEdnoKi8yo3DWXqKlYnqif1zZqk92y+K1/Q+wUqpwrDnWrXggihMEgi/YNfW6Er6piC3JiEInnnJCxdmK+anZXYZI3jzKMy2LR0AlCmSm/PjVQiU0OJAE1Bp1iVBUeC+/m7bs8uB+v/6rERBntfBOMHD1ECLsHELaGIIkSPoje5woZQhpaH7T+XuogHYGj1zUIuqYsk7uiiSDHgEV2UwEdpF3KUAd8atXd0DoJqvM0Q5a/LGoQBn8ACYQTzUrNRl1DNAbpxjZLUWn4uYkIIH+0JA3hMsIVenxdDSB4xmZQOnaLeDrtTzN7IIFXFkLYZQK1xND11Ot1AMvsZx4i4ELaHQC4jcsCHkW8hlZvmmA7INt13cmS6hALzxc1IkrgbGYpKJGuVHWntObS83B68DxgWD5vPDLwkaTWWkoVnsKCx2k8yWa4a7eATcUhTayHlovBCD+FP7A5/jrGG+A5ajjiLQ1UkILET7MO696UiT7f7aw7zbplVSho9GQZ/J25DuwhvF0gq4Vj3f2cRwIn+Hw1p2ESDYwDIYhDkgv0Z1w5RZE2xYmP8FprghgVOD5Y1ygdyqFFIRdr6V5XEwh81rbzJ5r0xVSslXGpwOzrRzqFbODpwh3hcjRoWHiw0CP1WEyCl8IKDqRRd7pk8nHpHklg7dhcYMGQW3CifHmU2PLBBAXFZgH4H0MDZWG7nyGRD2nXdqIFAUOk4xOjbTwkCNZPyH2rjo6bN5XryQL2ro5wPMs1i55g/L+vhvz+UyP/G0QHeqG4YQJNBW9jqZnVi68Kaww+iPBbuNHIVs0TK5SI2v+4KINjWWG/nlby25Dg4ZFdE3aPjhrT+JWLAr0RANidZflCeajw3QWycSd+AWmw1nuQl5+S+p3C0Drhn+IezueGAiyR3JTD8mQ2HqKUY7ir97ZYIAAtqtSlrRcn4imVTFl7/oiP6ZM8aQcvUpQ8gAhKfwtPicuQUSyF7DK5xJFjyqpUvIbWqQLVOstP1/ATJO/QQ8G5J82kRYlued7XfPMl8JAAUHQXwYFTHTWfKPs/TKuIyJPWsIiZf56JoEHQa9prC4OABLILjLJ5LZYb88TpP36Poy98NmgyaauPIXY6jaQSrPJ7TDFAB7NLPKFNxX5wajVS0ydSO3qi/uC05zu1yIrSn+8rdYfW6AlnY1PbjwDMGA+4BubvDAaGDTuyQGV1juDehYdMXQU0cB+5BKPCTxmy3KR/cq1XCotL1eqY6VJTII1RETchfHNIX1y3/M6goEvuEpztVSiYfOS2rSGPYTM8t/uPjpLJ1OjAF6xVG6LKnup5ZnVnOQwVEXv5P/S4wB6Koy7MxlqXfjOY5zekI5cASGEWUf4IRtV9PFRfT/uBmLQ8BtWxPXsB31bZVJo22bKwpHU8StE3mgLxSuNYNt+dGdRfeEVQuCHID4xblgy0HB25puiAi7yZ91La27AfHu7utJJy11XepEuW2grD9C3UpxPqWaCuJsfKlJdmkROoDqoX4X0R77u1k7FN/c3FYo8uxhtuUJtnn6Ri1Fhd9A3yvyEIkSSpk8sGRgPANJVRkEPy7DlYdQr49spMOh/hrk8SIEGlxjyumahbX184P4/85xXDQUAJDCXnedpX2TBA/ZQxIhHbucnFdwDZJBxg9I5T3wyvZzPtyUmvkh0DWq2bsarbddZG8bGnUBPm2x4Cshd6xEJZUYtf5IjTyMyQRgAnIOgMsiSKff4JVq49mYsAnWpgQo1lMPPTbbUFPBwYgYG/YDlKThlLAmUktqpua7sgiJfPAxVE0M4yb+jjdhif99crdL8uw66qMp44DkYD6NJApjeoIZZaRVoLtDgQNFfEyxW8F9SBpftkDefvV9WHiDJvzvA9vmUGkmsp/W5/CeOeOj9MIc2FPwMX8rNIDyuNf5wcQerq2nk6qt+gTSV3bUMl1mN9k/t4EqFtMQGZOHwEnS2I4sSFsMLeRM6FtLKGUfTYHn6ImqL9fBoTGXBCeL33HkN8q47+miv2jtBtWNcQDzkhpWyp4LZZbvKIlHEpHAPbJWDCxy7/wyLN/LIj6SYbpoKwIVR6ZokQU2l/HmK5zROqoejyTh47O1knQo5n2fUiRhcKZIR43DUv+mhBBlTYJMYaEaBej2EYw9n0ckNdsT9OEVNn4UsRIfRlxxdZpaKF4y1U5m4mwPADFrwfyJ+Jm8Lhk7I0LP3OQuY7zdzpiuL+7dqdnZikdff06QnYahsDFpjM1BUgwLgP5730WsrAA0eaGJmh63X7gdhuK3hbLGE2nnfqf7dkmwqUNStVQjFe4R3GAlJCLoDNl/yDEB3ptjzmY5kUug+VicWDTaLLaRJzpeGhmzLVEgT5KwjUNeQ0mKQqmFU1LRp9cJdhYhLhU3rhlk942YYEtl4PaM6brtlozjpxaPxIgyLcIvgMuwdh7Q5C4yyKxQVSeHhrUqJhqDFUuS0djlmSFEyPTcivI6+sO7ksoLkAhmpKBYcKifBHv+uRKEMIQirWMG5VwHrSYszvilqMyYpa5Zk9FmHQjw81Pk/WhrLISr8WyyAI1qrEy2hzjTfyc8LhnSlFeSS4xi3XN30SJ6dL715jFqgFxiIg8bIHpXkw9bV99YEtrH3DqDqynMaW3Bu3sFSUqtjd6WZp8dgj2KQ6Uep7c07YNA9RjYiKqpwRTipO3vaxah70d7klIfzYu6k2noHZcMD2pTtA/roljAr2wkB6trzj0FjG0paDHgVqP863LgTbZ2xLv0VcV8JIJb/JVZ604xMMDNSpNSW+9t8COXpwMDTub343ls9Q8kz9KpzZ74EgSRuJ8sL0Z8FBaGbTJwrx8P7bR15joW7oAePRsstJ5MxyEM/UlxxSPWjswQ7B7A07vXbzjEMOJ7u2dFFsdFrvRmRarU1tJyrieN2+wEquCDi5ZLMIECBS1dEi3PCN87JiEM+lOIOLBmh+wO0j7gNDMWwIOUlTTh4MwNcZoC6clZNhqpT7WeJRKRpzYtHFO4kF43TkD6GwX1T/FOB0+N//KYSFRrYebPhV1fVEvRPt0NQDK93XdmKVSNM58G2O8LRVpaW9cEpb22Zzfkgb2DZvcXnukTXby2haQQ5D1am+Zx0E2Mg0TDdtqSlhJ/lv0Ov0DMy7BRakBjSjTnPrlSMGXzOHlbPD9PitcgqfMs/hW3yYDMg/KYYp5bLk5e/7dY3MHmATEVIA9ZujAyp5CIhELadsiga6+0xGHwribt9Hym6/yag6dvax0YxNXXdgVF+8WxPX9oikpCfXw4k579ud1H/pHjL9xCiK67ZCybg68dguYB1/Vwxrb03dIIxEOizCZDfI+B9e5miTdy25kmvqR2dkFqLxo4bNeBC7GqlRfFJk2yhPMljMacw+MwroamlJpeT2jL2pw+/d/kEpIxnf4PocLeO6A5cOKlnvJOvHKSLu/HWhJ+FS4eHK0aUwpG9HdwjXs6pr/AZr1psdD2iwDkAaAIH5PPecg9SWAd3TRYJpZEeicN+gVe5RxY7sgF92iUV9KFgnhOz9FM2qsRrdDb4RzqD9wjnfzeYqtT/QmYzSceMddXzASh1TdsFKFuaxTvdk8lYTy+xABbkL8F2Kk2pa5uvSKRBB+L3uCUANOjSY8cZmLrcTbOI/0GS58OsUbDD9+C064JauxFHRxrzaCMeC8uq/C317PvASlR/tVcbigcJJ17Oh6qzJBIXQD5agwDFH6DNpsVCasLGLSeXBgZxYpyP5Kx0B8BAAD//6POgdc=
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>ru.yacopsae</groupId>
+    <artifactId>PdfConverter</artifactId>
+    <packaging>pom</packaging>
+
+    <version>1.0.10</version>
+
+
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <spring-cloud.version>2023.0.0</spring-cloud.version>
+        <grpc.version>1.61.0</grpc.version>
+    </properties>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.2.1</version>
+    </parent>
+
+    <modules>
+        <module>docker</module>
+        <module>jni</module>
+        <module>backend</module>
+        <module>converter</module>
+        <module>fileshare</module>
+        <module>java-process-spawner</module>
+        <module>frontend-ssr</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-bom</artifactId>
+                <version>${grpc.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>com.google.cloud.tools</groupId>
+                    <artifactId>jib-maven-plugin</artifactId>
+                    <version>3.4.0</version>
+                    <configuration>
+                        <allowInsecureRegistries>true</allowInsecureRegistries>
+                        <from>
+                            <image>${env.DOCKER_REGISTRY}/yacopsae/java:17-ea-31-slim-buster</image>
+                        </from>
+                        <to>
+                            <auth>
+                                <username>${env.DOCKER_REGISTRY_USER}</username>
+                                <password>${env.DOCKER_REGISTRY_PASSWORD}</password>
+                            </auth>
+                            <image>${env.DOCKER_REGISTRY}/yacopsae/${project.artifactId}:${project.version}</image>
+                            <tags>
+                                <tag>${project.version}</tag>
+                                <tag>latest</tag>
+                            </tags>
+                        </to>
+                        <extraDirectories>
+                            <paths>
+                                <path>
+                                    <from>target</from>
+                                    <includes>elastic-apm-agent-1.52.1.jar</includes>
+                                </path>
+                            </paths>
+                        </extraDirectories>
+                        <container>
+                            <jvmFlags>
+                                <jvmFlag>-javaagent:elastic-apm-agent-1.52.1.jar</jvmFlag>
+                                <jvmFlag>-Djava.net.preferIPv4Stack=true</jvmFlag>
+                                <jvmFlag>-Djava.net.preferIPv4Addresses=true</jvmFlag>
+
+                            </jvmFlags>
+                            <environment>
+                                <ELASTIC_APM_TRANSACTION_SAMPLE_RATE>0.0001</ELASTIC_APM_TRANSACTION_SAMPLE_RATE>
+                                <ELASTIC_APM_ENABLED>true</ELASTIC_APM_ENABLED>
+                                <ELASTIC_APM_SERVICE_NAME>${project.artifactId}</ELASTIC_APM_SERVICE_NAME>
+                                <ELASTIC_APM_APPLICATION_PACKAGES>yacopsae</ELASTIC_APM_APPLICATION_PACKAGES>
+                                <ELASTIC_APM_LOG_LEVEL>INFO</ELASTIC_APM_LOG_LEVEL>
+                                <ELASTIC_APM_SERVER_URLS>http://elasticsearch_apm:8200/</ELASTIC_APM_SERVER_URLS>
+                            </environment>
+                        </container>
+                    </configuration>
+                </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-dependency-plugin</artifactId>
+                    <executions>
+                        <execution>
+                            <id>copy</id>
+                            <phase>initialize</phase>
+                            <goals>
+                                <goal>copy</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                    <configuration>
+                        <artifactItems>
+                            <artifactItem>
+                                <groupId>co.elastic.apm</groupId>
+                                <artifactId>elastic-apm-agent</artifactId>
+                                <version>1.52.1</version>
+                                <type>jar</type>
+                                <overWrite>false</overWrite>
+                                <outputDirectory>${project.build.directory}</outputDirectory>
+                            </artifactItem>
+                        </artifactItems>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <encoding>UTF-8</encoding>
+                    <propertiesEncoding>UTF-8</propertiesEncoding>
+                    <detail>true</detail>
+                    <useDefaultDelimiters>true</useDefaultDelimiters>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>yacopsae</groupId>
+                <artifactId>config-server-fetcher</artifactId>
+                <version>1.0.0</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>fetch-secrets</goal>
+                        </goals>
+                        <phase>generate-resources</phase>
+                    </execution>
+                </executions>
+                <configuration>
+                    <debug>true</debug>
+                    <profiles>
+                        <profile>default</profile>
+                        <profile>release</profile>
+                    </profiles>
+                    <server>
+                        <schema>http</schema>
+                        <host>1.config.server</host>
+                        <port>8888</port>
+                        <postfix>/config</postfix>
+                    </server>
+                </configuration>
+            </plugin>
+        </plugins>
+
+        <resources>
+            <resource>
+                <directory>./src/main/resources</directory>
+                <targetPath>${project.build.directory}</targetPath>
+                <filtering>true</filtering>
+                <includes>
+                    <include>Dockerfile</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>./src/main/resources</directory>
+                <targetPath>${project.build.outputDirectory}</targetPath>
+                <filtering>true</filtering>
+                <excludes>
+                    <exclude>Dockerfile</exclude>
+                </excludes>
+            </resource>
+        </resources>
+    </build>
+
+</project>
